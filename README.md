@@ -104,7 +104,7 @@ The dashboard includes slicers that allow users to filter results by:
 ## 🗂 Data Model
 Built as a star schema with `fact_sales` as the central fact table connected to seven dimension tables (customer, product, employee, store, payment, flags, and security).
 
-![Data model].(https://github.com/esramersa299-dev/Elvorie-Sales-Performance-Dashboard/blob/main/Data%20model.png).
+![Data Model](https://raw.githubusercontent.com/esramersa299-dev/Elvorie-Sales-Performance-Dashboard/main/Data%20model.png)
 
 ---
 
