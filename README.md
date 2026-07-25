@@ -121,5 +121,5 @@ Elvorie-Sales-Performance-Dashboard/
 ├── Elvorie Sales Performance Dashboard.pbix
 ├── README.md
 ├── Dashboard.png
-└── Data_model.png
+└── Data model.png
 ```
